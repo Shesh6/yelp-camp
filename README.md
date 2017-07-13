@@ -9,3 +9,5 @@ Steps taken:
 5. Added comments (associative database)
 6. Made comment page, styled show page
 7. refactoring, added comments, added custom stylesheet
+8. added authentication (loign, register, logout) using passport
+9. configured navbar to react to authentication
