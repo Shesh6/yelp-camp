@@ -19,7 +19,11 @@ router.post("/", isLoggedIn, function(req,res){
     {
        name: req.body.name,
        image: req.body.image,
-       description: req.body.description
+       description: req.body.description,
+       author:{
+           id: req.user._id,
+           username: req.user.username
+       }
     }, function(err, campground){
         if(err){
             console.log(err);
