@@ -8,7 +8,10 @@ Steps taken:
 4. Conformed to REST
 5. Added comments (associative database)
 6. Made comment page, styled show page
-7. refactoring, added comments, added custom stylesheet
-8. added authentication (login, register, logout) using passport
-9. configured navbar to react to authentication
-10. added user association to comments and campgrounds, displays username on show page 
+7. Refactoring, added comments, added custom stylesheet
+8. Added authentication (login, register, logout) using passport
+9. Configured navbar to react to authentication
+10. Added user association to comments and campgrounds, displays username on show page 
+11. Added ability update and destroy comments
+12. Authentication is required to view and use edit and destroy buttons
+13. Refactored middleware to it's own file
