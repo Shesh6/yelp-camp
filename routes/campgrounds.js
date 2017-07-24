@@ -20,6 +20,7 @@ router.post("/", middleware.isLoggedIn, function(req,res){
     Campground.create(
     {
        name: req.body.name,
+       price: req.body.price,
        image: req.body.image,
        description: req.body.description,
        author:{

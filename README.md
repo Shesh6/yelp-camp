@@ -17,3 +17,4 @@ Steps taken:
 13. Refactored middleware to it's own file
 14. Added flash messages
 15. Designed landinge page (slideshow with css animation)
+16. Added price input
