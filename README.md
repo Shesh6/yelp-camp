@@ -15,3 +15,4 @@ Steps taken:
 11. Added ability update and destroy comments
 12. Authentication is required to view and use edit and destroy buttons
 13. Refactored middleware to it's own file
+14. Added flash messages
