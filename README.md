@@ -16,3 +16,4 @@ Steps taken:
 12. Authentication is required to view and use edit and destroy buttons
 13. Refactored middleware to it's own file
 14. Added flash messages
+15. Designed landinge page (slideshow with css animation)
