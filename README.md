@@ -18,3 +18,6 @@ Steps taken:
 14. Added flash messages
 15. Designed landinge page (slideshow with css animation)
 16. Added price input
+17. Deployed app to heroku (https://morning-bayou-67653.herokuapp.com/)
+18. Hosted database using mLab
+19. Configured enviroment variables for using different DBs in different environments
